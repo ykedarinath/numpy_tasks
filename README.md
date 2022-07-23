@@ -1,2 +1,2 @@
 # numpy_tasks
-100 question in Numpy
+100 questions in Numpy
